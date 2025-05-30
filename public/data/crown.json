@@ -1,0 +1,11 @@
+{
+  "proposals": [
+    {
+      "id": 1,
+      "title": "Enable Anonymous Glyph Mode",
+      "description": "Allow users to post glyphs without revealing soul name.",
+      "votes": { "yes": 18, "no": 2, "abstain": 3 },
+      "status": "pending"
+    }
+  ]
+}
